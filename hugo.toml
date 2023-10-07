@@ -1,0 +1,4 @@
+baseURL = 'https://44-saint-antoine.fr/'
+languageCode = 'en-us'
+title = '44 Saint Antoine'
+theme = 'ananke'
