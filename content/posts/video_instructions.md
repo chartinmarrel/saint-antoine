@@ -5,3 +5,14 @@ draft = false
 +++
 You can find all the instructions of the house equipments in our [Videos](https://photos.app.goo.gl/2ubYtQuKbZ5ztfSi7). 
 
+{{< goplay >}} 
+
+```go
+
+func main() {
+   i := 1
+}
+
+```
+
+{{</goplay >}}
